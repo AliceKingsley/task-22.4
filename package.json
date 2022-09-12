@@ -1,0 +1,14 @@
+{
+  "name": "taskchart",
+  "version": "1.0.0",
+  "description": "test chartjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AliceKingsley",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.9.1"
+  }
+}
